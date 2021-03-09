@@ -1,0 +1,16 @@
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csprojAssemblyReference.cache
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfoInputs.cache
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfo.cs
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CoreCompileInputs.cache
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.exe
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.deps.json
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.json
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.dev.json
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.dll
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.pdb
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CopyComplete
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\Users\d4rk\Desktop\Infopulse\Infopulse\Rectangle\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.genruntimeconfig.cache

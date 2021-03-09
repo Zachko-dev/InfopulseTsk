@@ -1,0 +1,69 @@
+﻿Create a console application written in C# that implements a following method:
+
+public static Rectangle FindRectangle(List<Point> points);
+
+public class Point
+{
+	public int X {get;set;}
+	public int Y {get;set;}
+}
+
+public class Rectangle
+{
+	public int X {get;set;}
+	public int Y {get;set;}
+	public int Width {get;set;}
+	public int Height {get;set;}
+}
+
+The "FindRectangle"	method accepts a list of random points and returns a rectangle that includes all points from the list except one (all points inside and one of them outside). The rectangle coordinates may or may not match with provided points. The method should also validate an input argument by following rules:
+	- "points" argument shouldn't be null
+	- "points" should contain at least 2 points
+	- There shouldn't be points with a same coordinates
+	- It should be possible to find the rectangle, in a case if not: the input list is invalid
+
+Evaluation criteria:
+1. Correctness and business requirements fulfillment
+2. Code readability
+3. Lines of code
+4. Usage of existing .net tools, lack of low-level data manipulations
+5. C# version 5.0 or higher
+6. .net framework 4.5 or .net core 2.0 or greater
+
+Nice to have:
+7. Unit tests
+
+Створіть консольний додаток, написаний на C #, який реалізує такий метод:
+
+загальнодоступний статичний прямокутник FindRectangle (List <Point> points);
+
+громадський клас Точка
+{
+public int X {get; set;}
+public int Y {get; set;}
+}
+
+публічний клас Прямокутник
+{
+public int X {get; set;}
+public int Y {get; set;}
+public int Width {get; set;}
+public int Height {get; set;}
+}
+
+Метод "FindRectangle" приймає список випадкових точок і повертає прямокутник, який включає всі точки зі списку, крім однієї (всі точки всередині і одна з них зовні). Координати прямокутника можуть збігатися або не збігатися з наданими точками. Метод також повинен перевірити вхідний аргумент за наступними правилами:
+- аргумент "точки" не повинен бути нульовим
+- "бали" повинні містити щонайменше 2 бали
+- Не повинно бути точок з однаковими координатами
+- Має бути можливість знайти прямокутник, у випадку, якщо ні: список введення недійсний
+
+Критерії оцінки:
+1. Коректність та виконання бізнес-вимог
+2. Читаність коду
+3. Рядки коду
+4. Використання існуючих інструментів .net, відсутність маніпуляцій з низьким рівнем даних
+5. C # версії 5.0 або новішої
+6. .net framework 4.5 або .net core 2.0 або вище
+
+Добре мати:
+7. Блокові тести
